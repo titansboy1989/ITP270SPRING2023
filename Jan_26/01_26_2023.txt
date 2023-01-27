@@ -10,5 +10,3 @@
 
 - git show
 
-
-hello this is david
