@@ -1,0 +1,1 @@
+touch rivers.txt | echo "Amazon Nile Yangtze Mississippi Danube" > rivers.txt | sed 's/Amazon/Ohio/g' rivers.txt | sort rivers.txt | touch file1.txt file2.txt file3.txt | echo "We are family" > file1.txt | echo "We are humans" > file2.txt | diff file1.txt file2.txt
